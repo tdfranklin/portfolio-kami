@@ -1,0 +1,14 @@
+---
+layout: post
+title: Starting with Bloc pt. 1
+---
+
+So I started Bloc (on the Software Development track) in late January of 2017.  I've only been in the program for a few months and only made it about 15% of the way through the program, but I thought I'd share my experiences so far.
+
+I'm almost to the end of the front-end portion of the program so I can only speak about that so far, but I can say that I have learned a lot.  I won't say the program is perfect and I won't say it's easy, but I have learned a lot.  I was already fairly knowledgable about HTML and CSS coming in and I had taken a couple of online "classes" on Javascript in the weeks prior to starting the program, so I had a pretty good jump in the beginning.  Those first few sections of Bloc are all about laying foundation - teaching you basic HTML/CSS/JS - so I was able to fly through that portion with virtually zero difficulty.  For this reason, I would HIGHLY recommend to anyone who's thinking about joining Bloc to take at least a month or so before you join and try to learn the basics.  It will make the transition so much easier.
+
+In any case, once I completed my first assessment, things started getting a good bit tougher.  Up until this point, I had only worked on console-type logic.  Just learning loops, variable assignment, etc - so I hadn't worked on any actual projects yet.  And in comes BlocJams - a web based music player that I start developing though Bloc.  And we do it completely from scratch - starting with an empty folder.  So we go through the entire thing writing all of the HTML and CSS and just getting a basic layout.  I realized during that portion that I would never be a CSS guru - style just isn't my thing.  It was very interesting learning, however.  Once the basic layout was complete, we started writing vanilla Javascript to manipuate elements.  DOM scripting is quite possibly one of the most painful things I've done in my life, lol!
+
+In the end, I'm glad I started with vanilla Javascript coding, though, because not only has it given me a much greater appreciation for libraries and frameworks, but it made it much easier to understand how they work and what the underlying code is doing.  I believe one of the most important concepts of programming is to strip away the magic so you understand what exactly is going on and why the code works the way it does.
+
+Back on track now; we get a lot of basic functionality working in BlocJams and then they introduce jQuery and we refactor most of the code with it.  This was such a huge relief and working with jQuery made getting certain functionality so much easier.  And in the end, I was able to get a mostly functional music player application.
