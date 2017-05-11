@@ -47,4 +47,4 @@ In the end, I was able to create a mostly functional chat program.  Due to time 
 
 ## Conclusion
 
-In conclusion, while there were certainly challenges along the way and quite a few things that were frustrating - in the end I learned so much.  I now feel much more confident about Angular, I have a strong understand of Firebase (and Angularfire), and also got a lot of practice with UI design using Bootstrap.  The application isn't perfect, but the knowledge I gained when creating it will carry forward to my next project and I will be a much stronger developer because of it.
+In conclusion, while there were certainly challenges along the way and quite a few things that were frustrating - in the end I learned so much.  I now feel much more confident about Angular, I have a strong understand of Firebase (and Angularfire), and also got a lot of practice with UI design using Bootstrap.  The application isn't perfect, but the knowledge I gained when creating it will carry forward to my next project and I am much stronger developer because of it.
