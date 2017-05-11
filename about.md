@@ -2,15 +2,19 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/color.png"
+feature-img: "img/Self.jpg"
 ---
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+My name is Tyler D. Franklin and I am a passionate Full Stack Web Developer.  For more than a decade I worked on the hardware side of things and held various jobs as Network/Server Administrator or PC Technician, but a couple years ago I realized that I just wasn't satisfied with my career.  In 2016, I decided to make the jump to software development and it's been the best decision of my life.  I have finally found a passion that I was missing in my old career and I look forward to learning and growing in this ever-expanding field.  It's certainly never dull!  If you're interested, you can learn more about my journey into programming [here]({{ site.baseurl }}{% post_url 2017-05-03-my-journey-to-programming %}).
 
-Jowl sirloin doner shank flank. Leberkas ham ball tip, jowl pastrami short loin pork cow. Rump ground round chuck leberkas shank picanha bacon meatloaf filet mignon. Ball tip swine brisket jowl pig sausage corned beef leberkas pastrami porchetta kevin beef. Ground round tail cupim ribeye, landjaeger meatloaf pig prosciutto. Shank sirloin porchetta frankfurter kevin corned beef ribeye rump doner. Shankle pork loin beef prosciutto short loin venison, ribeye swine kevin pastrami landjaeger ham hock alcatra sirloin ground round.
+I am now currently enrolled in [Bloc](https://www.bloc.io).  It's quite an interesting journey and I'm learning so much, but you can read more about that [here]({{ site.baseurl }}{% post_url 2017-05-03-starting-bloc-pt1 %}).
 
-Pork chop pork belly bresaola, turducken porchetta sausage cupim pork loin bacon pancetta. Meatloaf tail frankfurter pork belly chicken. Turducken pork prosciutto, pork chop hamburger spare ribs jerky salami leberkas meatball. Tenderloin porchetta strip steak jerky, spare ribs beef ribs pork chop tail short loin sausage. Doner biltong andouille ribeye corned beef. Prosciutto boudin corned beef pork loin tail, ham picanha biltong chicken alcatra. Hamburger frankfurter bacon tail jowl filet mignon rump brisket turducken.
+I'm 32 years old and married to my beautiful wife, Holly, for almost 9 years.  We have two amazing children - Zoey, 8 years old, and Jude, 6 months old.  We currently live in Clinton, MS but are planning on moving to (most likely) Denver, CO once I finish my course with Bloc in early 2018.  Along with my passion for programming, I also have several other hobbies, including gaming (both video games and board games) and also I'm working on painting the miniatures for several of my board games.
 
-Biltong landjaeger swine pork sausage chicken cow cupim ham hock corned beef. Salami alcatra turkey doner rump, ribeye turducken frankfurter pork loin. Alcatra fatback strip steak, frankfurter beef ribs tail pork loin. Jerky shankle filet mignon beef ribs ham, swine sausage sirloin brisket picanha alcatra bresaola.
 
-Short ribs ham hock jerky, sausage beef ribs shoulder beef landjaeger rump sirloin leberkas flank turkey alcatra. Andouille pancetta cupim fatback sirloin landjaeger corned beef turducken tri-tip turkey capicola spare ribs. Chuck hamburger alcatra pig tongue, filet mignon rump bresaola. Porchetta corned beef alcatra beef ribs. Ham hock boudin picanha salami tri-tip ham.
+
+{:.center}
+![Picture of Tyler, Holly, and Jude]({{ site.baseurl }}/img/self.jpg)
+
+{:.center}
+![Picture of Tyler and Zoey]({{ site.baseurl }}/img/self2.jpg)

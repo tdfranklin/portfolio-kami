@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-If you have any questions or would like to contact me regarding any project, please send me a note below and I will get back to you ASAP.
+If you have any questions or would like to contact me regarding any project, please send me a note below and I'll get back to you as soon as possible.
 
 <form action="https://getsimpleform.com/messages?form_api_token=210560a742f5c9dbf715c9e051fa071d" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
