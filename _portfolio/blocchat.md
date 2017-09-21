@@ -2,11 +2,20 @@
 layout: post
 title: BlocChat
 thumbnail-path: "img/blocchat/blocchat.png"
-short-description: BlocChat is a chat room where you can create your own room's and send messages.
+short-description: BlocChat is an application where you can create chatroom's and send messages.
 ---
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocchat/chat3.png)
+
+## Technologies Used
+
+- Angular
+- UI Router
+- Firebase
+- AngularFire
+- UI Bootstrap
+- ngCookies
 
 ## Explanation
 
@@ -14,7 +23,7 @@ BlocChat is the first Angular program I created pretty much on my own.  As part 
 
 ## Problem
 
-I think the biggest problem for me was trying to learn new technologies while working on the project.  I had just finished refactoring another application I had created in Javascript/jQuery for Angular so the framework was still relatively new to me as well.  However, Bloc wanted me to create a backend database for the application so I was introduced to Firebase and Angularfire to handle the job.  Also, during the process, I was introduced to UI-Bootstrap that was needed to create the Modal's used to set the username and create a new chatroom.  Previously, Bloc had walked me through new technologies when introducing them and gave plenty of examples on how they worked.  However, in this project, they pretty much just gave me the link to the documentation and I was left to figure out how they worked on my own.
+I think the biggest problem for me was trying to learn new technologies while working on the project.  I had just finished refactoring another application I had created in Javascript/jQuery for Angular so the framework was still relatively new to me as well.  However, Bloc wanted me to create a backend database for the application so I was introduced to Firebase and AngularFire to handle the job.  Also, during the process, I was introduced to UI-Bootstrap that was needed to create the Modal's used to set the username and create a new chatroom.  Previously, Bloc had walked me through new technologies when introducing them and gave plenty of examples on how they worked.  However, in this project, they pretty much just gave me the link to the documentation and I was left to figure out how they worked on my own.
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocchat/chat2.png)
@@ -24,7 +33,7 @@ I think the biggest problem for me was trying to learn new technologies while wo
 
 ## Solution
 
-Trial and Error - that was pretty much the name of the game.  I knew in my head how I wanted it to look and function, but to display that vision took a lot of trial and error.  One of the lengthier parts for me, I believe, was the HTML/CSS.  I decided to use Bootstrap to help get a cleaner layout and I hadn't used that before so adjusting to that took a little effort.  Also, design isn't really my forte nearly as much as logic, but once I got the layout working, then the actal coding wasn't too bad.  I typically had a pretty good idea on how I wanted everything to work, but more than once the interraction between Angular and Firebase caused me delays.
+Trial and Error - that was pretty much the name of the game.  I knew in my head how I wanted it to look and function, but to display that vision took a lot of trial and error.  One of the lengthier parts for me, I believe, was the HTML/CSS.  I decided to use Bootstrap to help get a cleaner layout and I hadn't used that before so adjusting to that took a little effort.  Also, design isn't really my forte nearly as much as logic, but once I got the layout working, then the actual coding wasn't too bad.  I typically had a pretty good idea on how I wanted everything to work, but more than once the interaction between Angular and Firebase caused me delays.
 
 On particularly challenging bit of code was adding the functionality to delete chat rooms once they were created.  Luckily, my mentor, Allen, and I sat down one afternoon and figured it out.
 

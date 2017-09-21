@@ -1,0 +1,12 @@
+---
+layout: post
+title: Learning Rails pt. 1
+---
+
+It's been awhile since I've posted so I figured it was well beyond time to try and get things caught back up.
+
+So after my last post, I pseudo-finished my BlocChat app (although there are still a lot of features I would like to go back and add to it) and I spent the summer falling in and out of love with Rails.  My first project, [Bloccit](#) was taught in a very similar style as when I was first learning jQuery and Angular. Bloc provided a lot of the code and explained the concepts as we built the application together.  It went pretty slow at first as we spent several checkpoints on learning CRUD, but afterwards things sped up significantly and each checkpoint was teaching multiple concepts.  Still, I felt pretty good about it and I absolutely LOVED the organization of Rails and all the great "connectors" that were behind the scenes.  Much like with Ruby, it felt liberating not to have to deal with some of the boilerplate code of linking files together and knowing that as long as I used the correct naming scheme, Rails would take care of the rest.
+
+Getting off on a small tangent, did I mention how much I love Ruby?  I know I'm still fairly new to programming and only have any real experience with Python, JavaScript, and Ruby, but the freedom of not having to use so many brackets and semi-colons was very satisfying.  But the TRUE freedom of Ruby is in the available methods and ability to chain them.  I found I was able to write much fewer lines of code with Ruby that I would have with JavaScript and that I was able to handle complex logic in a much more intelligible way.  Recently, I have started using ES6, and I will say that it makes Javascript a much easier (and cleaner) language to work with, but I will always hold a special place for Ruby in my heart.
+
+Now that's out of the way, back to the topic at hand.  Once I finished with Bloccit and started looking at the next project, I knew I was in big trouble.  While I felt pretty good on the basics of CRUD, I felt pretty hopelessly inept on Rails as a whole.  I didn't feel like I understood how all of the "magic" was happening behind the scenes or how I could utilize it to my benefit.  I knew that I loved the idea of Rails and I knew that I loved Ruby, but I quickly realized I had a long way to go before I could call myself a Rails developer.  I was ahead about 5% on my program and I still had my vacation time, so I knew I needed some time before I dove into the next project.

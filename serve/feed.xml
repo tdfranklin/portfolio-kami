@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tyler Franklin</title>
+    <atom:link href="http://tdfranklin.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://tdfranklin.com/</link>
+    <description>A personal portfolio and blog website</description>
+    <pubDate>2017-09-08 09:35:56 -0500</pubDate>
+    
+      <item>
+        <title>Learning Rails pt. 1</title>
+        <link>http://tdfranklin.com/2017/08/29/learning-rails.html</link>
+        <guid isPermaLink="true">http://tdfranklin.com/2017/08/29/learning-rails.html</guid>
+        <description>&lt;p&gt;It’s been awhile since I’ve posted so I figured it was well beyond time to try and get things caught back up.&lt;/p&gt;
+
+&lt;p&gt;So after my last post, I pseudo-finished my BlocChat app (although there are still a lot of features I would like to go back and add to it) and I spent the summer falling in and out of love with Rails.  My first project, &lt;a href=&quot;#&quot;&gt;Bloccit&lt;/a&gt; was taught in a very similar style as when I was first learning jQuery and Angular. Bloc provided a lot of the code and explained the concepts as we built the application together.  It went pretty slow at first as we spent several checkpoints on learning CRUD, but afterwards things sped up significantly and each checkpoint was teaching multiple concepts.  Still, I felt pretty good about it and I absolutely LOVED the organization of Rails and all the great “connectors” that were behind the scenes.  Much like with Ruby, it felt liberating not to have to deal with some of the boilerplate code of linking files together and knowing that as long as I used the correct naming scheme, Rails would take care of the rest.&lt;/p&gt;
+
+&lt;p&gt;Getting off on a small tangent, did I mention how much I love Ruby?  I know I’m still fairly new to programming and only have any real experience with Python, JavaScript, and Ruby, but the freedom of not having to use so many brackets and semi-colons was very satisfying.  But the TRUE freedom of Ruby is in the available methods and ability to chain them.  I found I was able to write much fewer lines of code with Ruby that I would have with JavaScript and that I was able to handle complex logic in a much more intelligible way.  Recently, I have started using ES6, and I will say that it makes Javascript a much easier (and cleaner) language to work with, but I will always hold a special place for Ruby in my heart.&lt;/p&gt;
+
+&lt;p&gt;Now that’s out of the way, back to the topic at hand.  Once I finished with Bloccit and started looking at the next project, I knew I was in big trouble.  While I felt pretty good on the basics of CRUD, I felt pretty hopelessly inept on Rails as a whole.  I didn’t feel like I understood how all of the “magic” was happening behind the scenes or how I could utilize it to my benefit.  I knew that I loved the idea of Rails and I knew that I loved Ruby, but I quickly realized I had a long way to go before I could call myself a Rails developer.  I was ahead about 5% on my program and I still had my vacation time, so I knew I needed some time before I dove into the next project.&lt;/p&gt;
+</description>
+        <pubDate>2017-08-29 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Starting with Bloc pt. 2</title>
+        <link>http://tdfranklin.com/2017/05/03/starting-bloc-pt2.html</link>
+        <guid isPermaLink="true">http://tdfranklin.com/2017/05/03/starting-bloc-pt2.html</guid>
+        <description>&lt;p&gt;So once I finished creating BlocJams with jQuery, I started the next portion which was learning Angular - a Javascript framework.  To do this, I pretty much recreated BlocJams.&lt;/p&gt;
+
+&lt;p&gt;First, I copied a cloned a basic template from Git that Bloc provided.  Then I copied most of my CSS and HTML templates.  I was very happy I didn’t have to recreate all of that code.  Then we started setting up basic things like a module and controller and I learned a lot about dependancy injection and the preferred correct way to create services using function expressions.  It was A LOT to take in at first and it took me quite awhile and a lot of extra research to try and figure out what was going on and how it was all working.  Angular is a VERY different beast than anything I had learned before.&lt;/p&gt;
+
+&lt;p&gt;At first, it seemed like it was so much work to get even the most basic things set up.  It seemed to require so much code to set up even the most basic things.  When you have to first create a factory or something to control logic and you’re wondering why not just do it in a much more simple fashion.  Then about mid-way through the project, it finally dawned on me.  I guess I just had to see things in action to really realize what was so great about Angular.&lt;/p&gt;
+
+&lt;p&gt;First - organization.  I can imagine that these huge sites like Amazon or Netflix have thousands upon thousands of lines of code.  And if you they just crammed it all into a single file, it would be virtually impossible to work on.  Trying to find the right section of code to change/test would be incredibly difficult and when you have hundreds (or thousands) of developers trying to work on this code, I’m sure it would be incredibly difficult to sort out, if not impossible.  So having all of these logic divions split into different files and sections makes is so much more easily accessible and readable.  You can go to a section of your website and know exactly what files are handling the logic for that portion so if you need to change something, it’s much easier to get to.&lt;/p&gt;
+
+&lt;p&gt;Second (and possibly even more important) - expandiblity.  At first it can seem like this huge pain to create a new file and use all this boiler plate code just to create a new service or have to link a controller to this portion of your application and it can be tempting to want to just do it the “fast” way and write code that does what you want it to do.  However, before long you end up having to copy and paste a lot of code because you want this other portion of your site to have similar functionality as another.  Angular (and by extension I assume most frameworks) make this much easier.  You may have to do a little more work setting up the code up front, but once you do, it’s extremely easy to “inject” it into another section of the site.  You just literally link the service and &lt;em&gt;voila&lt;/em&gt;, you have instant access to that code!  So not only does that make it so much easier and faster to use the same code in various parts of your site, but it also makes it much cleaner and easier to read and work with!&lt;/p&gt;
+</description>
+        <pubDate>2017-05-03 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Starting with Bloc pt. 1</title>
+        <link>http://tdfranklin.com/2017/05/03/starting-bloc-pt1.html</link>
+        <guid isPermaLink="true">http://tdfranklin.com/2017/05/03/starting-bloc-pt1.html</guid>
+        <description>&lt;p&gt;So I started Bloc (on the Software Development track) in late January of 2017.  I’ve only been in the program for a few months and only made it about 15% of the way through the program, but I thought I’d share my experiences so far.&lt;/p&gt;
+
+&lt;p&gt;I’m almost to the end of the front-end portion of the program so I can only speak about that so far, but I can say that I have learned a lot.  I won’t say the program is perfect and I won’t say it’s easy, but I have learned a lot.  I was already fairly knowledgable about HTML and CSS coming in and I had taken a couple of online “classes” on Javascript in the weeks prior to starting the program, so I had a pretty good jump in the beginning.  Those first few sections of Bloc are all about laying foundation - teaching you basic HTML/CSS/JS - so I was able to fly through that portion with virtually zero difficulty.  For this reason, I would HIGHLY recommend to anyone who’s thinking about joining Bloc to take at least a month or so before you join and try to learn the basics.  It will make the transition so much easier.&lt;/p&gt;
+
+&lt;p&gt;In any case, once I completed my first assessment, things started getting a good bit tougher.  Up until this point, I had only worked on console-type logic.  Just learning loops, variable assignment, etc - so I hadn’t worked on any actual projects yet.  And in comes BlocJams - a web based music player that I start developing though Bloc.  And we do it completely from scratch - starting with an empty folder.  So we go through the entire thing writing all of the HTML and CSS and just getting a basic layout.  I realized during that portion that I would never be a CSS guru - style just isn’t my thing.  It was very interesting learning, however.  Once the basic layout was complete, we started writing vanilla Javascript to manipuate elements.  DOM scripting is quite possibly one of the most painful things I’ve done in my life, lol!&lt;/p&gt;
+
+&lt;p&gt;In the end, I’m glad I started with vanilla Javascript coding, though, because not only has it given me a much greater appreciation for libraries and frameworks, but it made it much easier to understand how they work and what the underlying code is doing.  I believe one of the most important concepts of programming is to strip away the magic so you understand what exactly is going on and why the code works the way it does.&lt;/p&gt;
+
+&lt;p&gt;Back on track now; we get a lot of basic functionality working in BlocJams and then they introduce jQuery and we refactor most of the code with it.  This was such a huge relief and working with jQuery made getting certain functionality so much easier.  And in the end, I was able to get a mostly functional music player application.&lt;/p&gt;
+</description>
+        <pubDate>2017-05-03 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>My Journey to Programming</title>
+        <link>http://tdfranklin.com/2017/05/03/my-journey-to-programming.html</link>
+        <guid isPermaLink="true">http://tdfranklin.com/2017/05/03/my-journey-to-programming.html</guid>
+        <description>&lt;p&gt;About a year or so before I started this course (Bloc), I realized I was not happy with the path my career was taking.  I was on the hardware side of IT (server/network admin, pc repair, etc) for more than 10 years, but it just wasn’t something I enjoyed.  I had always had an interest in learning programming, but never was sure where to start.  So in about August or September of 2016 I decided I wanted to check it out and see if it was something I was interested in doing.&lt;/p&gt;
+
+&lt;p&gt;So I enrolled in a free class on &lt;a href=&quot;https://www.coursera.org/specializations/python&quot;&gt;Python at Coursera&lt;/a&gt; and went through several of the classes there.  I found myself facinated with the code and the ability to create.  I knew within a few weeks that I had pretty much wasted the last 10 years of my life and that this was what I wanted to be doing.&lt;/p&gt;
+
+&lt;p&gt;Now, at almost 32 years old, I knew I needed something drastic to be able to pivot my career and trying to take part-time classes to get a degree wouldn’t cut it.  I am married with two children, however, so I still have to provide for them as well.  So I started reading about programming boot camps, where in just a matter of a few months they turn you from no experience to a job-ready web developer.  I realized that I couldn’t afford to quit my job and pay to go to an on-site boot camp, so when I started researching online options, I quickly found Bloc.&lt;/p&gt;
+
+&lt;p&gt;I did a lot of reaearch about the program and decided it was the best choice for me.  So in December of 2016 I signed up for the program and opted to wait until late January to officially start the course so that I could prepare.  I didn’t want to go into the program completely green, so I found some other free courses online for basic Javascript and Ruby and spent the next month cramming as much into my head as possible.  Everything from HTML/CSS to basic command line usage to Git…. it was a tough few weeks, but I really feel like it paid off.&lt;/p&gt;
+</description>
+        <pubDate>2017-05-03 00:00:00 -0500</pubDate>
+      </item>
+    
+  </channel>
+</rss>
