@@ -5,13 +5,14 @@ url: "http://tdfranklin.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyler Franklin # Your name will go here
+  title: Tyler D. Franklin # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
      <h1>Professional Full Stack Developer</h1>
      <p>I'm a developer specializing in ReactJS and Rails.</p>
+     <a href='https://drive.google.com/file/d/1WwUPFlEL_FJlg8jCaRKyTtlU7MNyNhZG/view?usp=sharing'>Check Out My Resume</a>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -27,14 +28,14 @@ theme_settings:
   github: tdfranklin # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/tdfranklin1101/ # Full URL
   pinterest:
-  reddit:
+  reddit: tdfranklin
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: tdfranklin1101
   wordpress:
   youtube:
 
