@@ -24,7 +24,7 @@ short-description: Retrocade is a retro-style arcade built with React.
 
 ## Explanation
 
-Retrocade is my capstone project for Bloc.  I was given the freedeom to create any application and use any technologies that I wanted.  I then had to create user stories and wireframes for the project.  Once that was complete, I created a Github repository and added milestones and issues to help me keep track of those user stories.  I then started building the application.
+Retrocade is my capstone project for Bloc.  I was given the freedom to create any application and use any technologies that I wanted.  I then had to create user stories and wireframes for the project.  Once that was complete, I created a Github repository and added milestones and issues to help me keep track of those user stories.  I then started building the application.
 
 I had been thinking about what I wanted to do for my capstone for several weeks prior to actually starting on it.  I had several ideas for projects that I was interested in creating, however it was actually the project I did right before my capstone that led me to create Retrocade.  I built a Pong game using HTML5 Canvas and pure Javascript.  You can read more about that on my blog post.  Once I completed that project, I had such a good time, I wanted to take it one step further.  I wanted to create a site that gave users the feeling of playing on an arcade in the 80s.  I also wanted to expand my knowledge and experience with modern frameworks and libraries, so I knew I wanted to create a full stack application with Node and React.
 
