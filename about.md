@@ -10,7 +10,7 @@ feature-img: "img/Self.jpg"
 ![Tyler D. Franklin]({{ site.baseurl }}/img/Tyler.jpg)
 
 {:.center}
-[Link to Resume](https://drive.google.com/file/d/1WwUPFlEL_FJlg8jCaRKyTtlU7MNyNhZG/view?usp=sharing)
+[Link to Resume](https://drive.google.com/open?id=1JM5Lh5gdJwxHsSDNARwX89Ok9DI6NBvF)
 
 ---
 
