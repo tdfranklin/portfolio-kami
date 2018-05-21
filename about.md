@@ -10,7 +10,7 @@ feature-img: "img/Self.jpg"
 ![Tyler D. Franklin]({{ site.baseurl }}/img/Tyler.jpg)
 
 {:.center}
-[Link to Resume](https://drive.google.com/open?id=1JM5Lh5gdJwxHsSDNARwX89Ok9DI6NBvF)
+[Link to Resume](https://drive.google.com/open?id=1cIC_3z2_KdITgMvuE2pQRkvpMEw_crQZ)
 
 ---
 
@@ -18,7 +18,7 @@ My name is Tyler D. Franklin and I am a passionate Full Stack Web Developer.  Fo
 
 I am now currently enrolled in [Bloc](https://www.bloc.io).  It's quite an interesting journey and I'm learning so much, but you can read more about that [here]({{ site.baseurl }}{% post_url 2017-05-03-starting-bloc-pt1 %}).
 
-I'm 33 years old and married to my beautiful wife, Holly, for almost 10 years.  We have two amazing children - Zoey and Jude, 9 and 1.  We currently live in Clinton, MS but are planning on moving to (most likely) Denver, CO once I finish my course with Bloc.  Along with my passion for programming, I also have several other hobbies, including gaming (both video games and board games) and also I'm working on painting the miniatures for several of my board games.
+I'm 33 years old and married to my beautiful wife, Holly, for almost 10 years.  We have two amazing children - Zoey and Jude, 9 and 1.  We currently live in Clinton, MS but are planning on moving to Denver, CO this summer.  Along with my passion for programming, I also have several other hobbies, including gaming (both video games and board games) and also I'm working on painting the miniatures for several of my board games.
 
 ---
 

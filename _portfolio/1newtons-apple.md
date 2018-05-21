@@ -208,7 +208,3 @@ fs.pathExists(file, (err, exists) => {
 ## Conclusion
 
 Overall, I am very happy with the current progress of Newton's Apple.  I only released version 1.0.0 a couple of weeks ago and I already have over 600 downloads and 9 stars on Github, so I feel confident that it's a tool people want to use.  I still have big plans to add Redux boilerplate, custom methods, and default file structure support so I believe it will continue to grow.
-
-{% highlight javascript %}
-
-{% endhighlight %}
